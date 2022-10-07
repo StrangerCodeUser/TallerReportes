@@ -9,6 +9,10 @@
             <name>Juan Pablo Toro Correa</name>
             <email>toropablo34@gmail.com</email>
         </developer>
+        <developer>
+            <name>Jaime Andres Rivera</name>
+            <email> </email>
+        </developer>
     </developers>
     <dependencies>
         <dependency>
